@@ -4,7 +4,10 @@ import 'package:fruit_store/utils/utils.dart';
 class Fruit {
   int id;
   String name,
-      desc = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id neque libero. Donec finibus sem viverra, luctus nisi ac, semper enim. Vestibulum in mi feugiat, mattis erat suscipit, fermentum quam. Mauris non urna sed odio congue rhoncus.',
+      desc = 'Fruits are an excellent source of essential vitamins and minerals,'
+          ' and they are high in fiber. Fruits also provide a wide range of health-boosting antioxidants,'
+          ' including flavonoids. Eating a diet high in fruits and vegetables can reduce a persons risk of developing heart disease,'
+          ' cancer, inflammation, and diabetes',
       price,
       image,
       discount;
